@@ -37,7 +37,12 @@ To run this project, you’ll need the following libraries and tools:
 - Matplotlib (for plotting and visualization)
 - OpenCV (for image processing)
 - tqdm (for progress bars)
+  
+---
+### Dataset:
+You can download the dataset from [here](https://www.kaggle.com/datasets/techsash/waste-classification-data). Make sure to download and extract it to the appropriate directory.
 
+---
 ### Install Dependencies:
 You can install the necessary libraries using pip:
 
@@ -82,6 +87,15 @@ Here’s a quick look at the distribution of Organic and Recyclable waste in the
 ![Image](https://github.com/user-attachments/assets/2897e6b9-5943-49fa-a3f1-89b90c0ff121)
 *Dark Green: Organic 🌱, Light Blue: Recyclable ♻️*
 
+
+---
+
+## 💻 Colab Link
+
+You can also run this project on Google Colab for easier setup and execution. Click the link below to open the notebook:
+
+[Open in Google Colab](https://colab.research.google.com/drive/1w1UM2hrvuBcoU9bmH0K09SQYVczZsUXO?usp=sharing)
+
 ---
 
 ## ⚙️ How to Run the Project
@@ -105,6 +119,7 @@ To get started with this project locally, follow these steps:
 
 ---
 
+
 ## 📝 Project Status
 This project is currently in progress. Week 1 tasks have been completed, and further improvements will be made in subsequent weeks, such as fine-tuning the model, adding validation, and increasing dataset size.
 
@@ -123,4 +138,8 @@ Feel free to fork this repository, make contributions, or create issues for impr
 
 ## 🔗 Links
 - [GitHub Profile](https://github.com/shailisahu283)
-```
+
+
+
+
+
