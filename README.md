@@ -79,7 +79,7 @@ In Week 1, I focused on setting up the project and implementing the core functio
 ## 📊 Class Distribution
 Here’s a quick look at the distribution of Organic and Recyclable waste in the dataset:
 
-![Class Distribution Pie Chart](./images/class_distribution_pie_chart.png)  
+![Class Distribution Pie Chart]([./images/class_distribution_pie_chart.png](https://github.com/shailisahu283/Waste-Management-Segmentation-CNN/issues/1#issue-2809059087))  
 *Dark Green: Organic 🌱, Light Blue: Recyclable ♻️*
 
 ---
