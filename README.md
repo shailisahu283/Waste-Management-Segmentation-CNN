@@ -134,11 +134,11 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🤖 Contributions
 
 Feel free to fork this repository, make contributions, or create issues for improvements. Let's work together to improve waste segregation systems worldwide! 🌍♻️
-```
+---
 
-## 🔗 Links
-- [GitHub Profile](https://github.com/shailisahu283)
-
+## **👤 Author**  
+**Shaili Sahu**  
+📧 Reach out at [shailisahu283@gmail.com](mailto:shailisahu283@gmail.com) for questions or feedback!  
 
 
 
