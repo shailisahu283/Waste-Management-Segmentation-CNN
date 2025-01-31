@@ -8,9 +8,10 @@ Welcome to the **Waste Management Segregation** project! This repository contain
 1. [Project Description](#project-description)
 2. [Requirements](#requirements)
 3. [Week 1 Overview](#week-1-overview)
-4. [How to Run the Project](#how-to-run-the-project)
-5. [Class Distribution](#class-distribution)
-6. [License](#license)
+4. [Week 2 Overview](#week-2-overview)
+5. [How to Run the Project](#how-to-run-the-project)
+6. [Class Distribution](#class-distribution)
+7. [License](#license)
 
 ---
 ## 📝 Project Description
@@ -80,6 +81,15 @@ In Week 1, I focused on setting up the project and implementing the core functio
    - Displayed the proportions in a visually appealing manner with a customized color scheme.
 
 ---
+### 🗓️ **Week 2: Model Training & Improvements**
+
+#### **Improvements**:
+- **Data Augmentation**: Implemented techniques like rotation, width and height shifts, zoom, and horizontal flipping to improve model generalization.
+- **Learning Rate Scheduler**: Introduced a learning rate scheduler to adjust the learning rate dynamically after a set number of epochs for better training performance.
+- **Model Training**: Trained the model for 15 epochs using the augmented data and validated on the test dataset.
+- **Visualization**: Plotted accuracy and loss curves to monitor the model’s progress during training and identify any overfitting or underfitting.
+
+---
 
 ## 📊 Class Distribution
 Here’s a quick look at the distribution of Organic and Recyclable waste in the dataset:
@@ -120,8 +130,18 @@ To get started with this project locally, follow these steps:
 ---
 
 
-## 📝 Project Status
-This project is currently in progress. Week 1 tasks have been completed, and further improvements will be made in subsequent weeks, such as fine-tuning the model, adding validation, and increasing dataset size.
+## 📝 **Project Status**
+
+This project is currently in progress. 
+
+- **Week 1**: Completed initial data exploration, visualized class distribution, and began basic model setup.
+- **Week 2**: Implemented data augmentation techniques, applied a learning rate scheduler, and trained the model with augmented data. Accuracy and loss plots were generated to monitor training progress.
+  
+Future improvements include:
+- **Fine-tuning** the model for better accuracy.
+- Adding **validation** during model training to improve reliability.
+- Expanding the **dataset** to include more diverse images for better generalization.
+- Implementing advanced **evaluation metrics** like precision, recall, and F1 score.
 
 ---
 
