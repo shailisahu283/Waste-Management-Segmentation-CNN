@@ -90,6 +90,13 @@ In Week 1, I focused on setting up the project and implementing the core functio
 - **Visualization**: Plotted accuracy and loss curves to monitor the model’s progress during training and identify any overfitting or underfitting.
 
 ---
+### **Week 3 Overview**  
+
+- **Fixed Image Loading Issues:** Added error handling to check if the image path is valid before processing.  
+- **Resolved OpenCV Conversion Error:** Ensured the image is properly loaded before applying color conversion to prevent crashes.  
+- **Optimized Prediction Pipeline:** Refined image resizing, reshaping, and model inference for accurate waste classification.
+
+---
 
 ## 📊 Class Distribution
 Here’s a quick look at the distribution of Organic and Recyclable waste in the dataset:
