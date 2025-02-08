@@ -9,9 +9,10 @@ Welcome to the **Waste Management Segregation** project! This repository contain
 2. [Requirements](#requirements)
 3. [Week 1 Overview](#week-1-overview)
 4. [Week 2 Overview](#week-2-overview)
-5. [How to Run the Project](#how-to-run-the-project)
-6. [Class Distribution](#class-distribution)
-7. [License](#license)
+5. [Week 3 Overview](#week-3-overview)
+6. [How to Run the Project](#how-to-run-the-project)
+7. [Class Distribution](#class-distribution)
+8. [License](#license)
 
 ---
 ## 📝 Project Description
