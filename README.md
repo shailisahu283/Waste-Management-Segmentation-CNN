@@ -129,19 +129,20 @@ To get started with this project locally, follow these steps:
 
 ---
 
-
 ## 📝 **Project Status**
 
-This project is currently in progress. 
+This project is now **completed**. 
 
 - **Week 1**: Completed initial data exploration, visualized class distribution, and began basic model setup.
 - **Week 2**: Implemented data augmentation techniques, applied a learning rate scheduler, and trained the model with augmented data. Accuracy and loss plots were generated to monitor training progress.
+- **Week 3:**:Finalized the model with improved accuracy. Evaluated it on test data, created a deployment-ready version, and documented the results.
   
-Future improvements include:
-- **Fine-tuning** the model for better accuracy.
-- Adding **validation** during model training to improve reliability.
-- Expanding the **dataset** to include more diverse images for better generalization.
-- Implementing advanced **evaluation metrics** like precision, recall, and F1 score.
+**Final Model Performance:**  
+- **Training Accuracy:** 82.31%  
+- **Validation Accuracy:** 87.62%  
+- **Final Loss:** 0.3359  
+
+The model successfully classifies waste images into **Recyclable** and **Organic Waste** categories with high accuracy. Future improvements may include expanding the dataset and fine-tuning with advanced architectures.  
 
 ---
 
